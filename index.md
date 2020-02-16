@@ -210,7 +210,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <b><a href="https://pad.carpentries.org/2020-02-17-otago">collaborative document</a></b> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="https://pad.carpentries.org/2020-02-17-otago">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 
